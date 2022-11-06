@@ -1,0 +1,1 @@
+create clustered index IX_clustered on [dbo].[DIMCustomers] ([state])
